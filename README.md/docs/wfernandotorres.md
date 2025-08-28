@@ -19,7 +19,7 @@
 
 **Dame soluciones tecnológicas para solucionar cada una de estas problemáticas que se ven en el día a día en la ciudad de Bogotá**
 
-**🚌 1. Plataforma integrada de movilidad (transporte público insuficiente)
+# 🚌 1. Plataforma integrada de movilidad (transporte público insuficiente)
 
 * ¿Por qué es clave?
 * Bogotá tiene un sistema fragmentado: TransMilenio, SITP, taxis, apps privadas y biciusuarios no están sincronizados.
@@ -30,7 +30,7 @@
 
 * Pagos digitales con una sola tarjeta o código QR para todos los medios.
 
-**🚦 2. Sistema inteligente de gestión del tráfico (rutas congestionadas)**
+# 🚦 2. Sistema inteligente de gestión del tráfico (rutas congestionadas)
 
 * ¿Por qué es clave?
 * Las principales vías de Bogotá (Autopista Norte, Av. Boyacá, Calle 80) colapsan a diario, en parte por semáforos ineficientes y mala distribución del flujo vehicular.
@@ -41,7 +41,7 @@
 
 * Integración con apps de navegación para redirigir vehículos automáticamente.
 
-**🌫️ 3. Monitoreo ambiental con sensores IoT (contaminación del aire)**
+# 🌫️ 3. Monitoreo ambiental con sensores IoT (contaminación del aire)
 
 * ¿Por qué es clave?
 * Bogotá sufre altos niveles de contaminación, sobre todo en zonas con tráfico pesado y poca ventilación como Kennedy o Fontibón.
@@ -54,7 +54,7 @@
 
 * Incentivos al uso de transporte limpio o eléctrico.
 
-**🚦 2. Sistema inteligente de gestión del tráfico (rutas congestionadas) (Idea seleccionada)**
+# 🚦 2. Sistema inteligente de gestión del tráfico (rutas congestionadas) (Idea seleccionada)
 * Esta me parece muy interasante porque agrega sensores en cada semaforo lo que identifica si el trafico esta congestionado o si va
 bien, esto facilita el trafico y es una idea bastante innovadora, incluso con una app se puede facilitar la gestion de estos sensores y camaras
 
