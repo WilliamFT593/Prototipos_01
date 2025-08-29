@@ -50,4 +50,14 @@ subgraph "usuarios"
 U_CONDUCTOR[conductor]
 end
 
-subgraph
+subgraph "Sistemas externos"
+AUTH["Autenticacion Micrasoft"]
+MAPS["Google maps"]
+end
+subgraph "Sistema"
+APP["Plataforma de rutas alternativas"]
+end
+
+U_CONDUCTOR --> |Inicia sesion| AUTH
+U_CONDUCTOR --> |Busca rutas alternativas y recolecta puntos| APP
+```
