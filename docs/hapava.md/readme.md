@@ -11,6 +11,8 @@ Bajo nivel de reciclaje por falta de cultura y puntos adecuados.
 
 Vertederos clandestinos y mala disposición final.
 
+Este tipo de cosas puede ocasionar malos olores, lo que asi mismo puede afectar a la salud de los residentes que vivan cerca de este tipo de zonas, esto puede generar gripas y en general problemas respiratorios por la mala calidad del aire.
+
 **♻️ 1. Sensores inteligentes en contenedores de basura (IoT + Big Data)**
 
 ¿Por qué es clave?
