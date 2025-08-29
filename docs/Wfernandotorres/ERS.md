@@ -43,3 +43,11 @@ TODO: redactar despues
  ### 2 Descripcion general
 
  ### 2.1 Perspéctiva del producto
+
+```mermaid
+graph
+subgraph "usuarios"
+U_CONDUCTOR[conductor]
+end
+
+subgraph
