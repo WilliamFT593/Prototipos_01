@@ -60,4 +60,5 @@ end
 
 U_CONDUCTOR --> |Inicia sesion| AUTH
 U_CONDUCTOR --> |Busca rutas alternativas y recolecta puntos| APP
+
 ```
