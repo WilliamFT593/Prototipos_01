@@ -31,4 +31,24 @@ En este documento se define las especificaciones funcionales y no funcionales pa
 
 ### 1.6 Resumen
 ## 2 Descripcion general
-### 2.1 Perspectiva delñ producto
+### 2.1 Perspectiva del producto
+```mermaid
+graph
+  subgraph "usuarios"
+      U_CONDUCTOR[Conductor]
+  end
+ 
+  subgraph "Sistemas externos"
+     AUTH["Autenticacion Microsoft"]
+  end
+ 
+subgraph "Sistemas externos"
+     APP["Plataforma de rutas alternativas"]
+  end
+ 
+  U_CONDUCTOR --> |Inicia Sesion| AUTH
+  U_CONDUCTOR --> |Busca rutas alternas y recolecta puntos| APP
+ 
+ 
+```
+
