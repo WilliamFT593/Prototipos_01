@@ -27,3 +27,19 @@ TODO: redactar despues
 | Responsabilidad         | Diseñar, desarrollar e implementar el backend del sistema, incluido la base de datos. |
 | Información de contacto | Wfernandotorres@ucompensa.edu.co                                                      |
 
+### 1.4 Definiciones. acronimos y abreviaturas
+
+| Nombre  | Descripción                                          |
+|---------|------------------------------------------------------|
+| Usuario | Persona que usará el sistema para gestionar procesos |
+| ERS     | Especificación de Requisitos Software                |
+| RF      | Requerimiento Funcional                              |
+| RNF     | Requerimiento No Funcional                           |
+
+### 1.5 Referencias
+
+ ### 1.6 Resumen
+
+ ### 2 Descripcion general
+
+ ### 2.1 Perspéctiva del producto
