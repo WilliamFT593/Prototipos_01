@@ -1,23 +1,35 @@
 # Harold Andres Pava Perez
-**Problema central: Impacto en la salud pública**
-* causas 
-* Contaminación del entorno
-* Bajo nivel de reciclaje y aprovechamiento
-* gases contaminantes
-* enfermedades respiratorias
+```mermaid
+graph TD
+    A[Impacto en la salud pública]
 
-* Causas visibles:
+    A --> B[Causas]
+    A --> C[Consecuencias]
 
-* Acumulación de basura en calles y andenes.
+    B --> B1[Contaminación del entorno]
+    B1 --> B1a[Acumulación de basura en calles y andenes]
+    B1 --> B1b[Vertederos clandestinos]
+    B1 --> B1c[Mala disposición final]
 
-* Recolección irregular en algunas zonas.
+    B --> B2[Bajo nivel de reciclaje y aprovechamiento]
+    B2 --> B2a[Falta de cultura de reciclaje]
+    B2 --> B2b[Falta de puntos adecuados]
 
-* Bajo nivel de reciclaje por falta de cultura y puntos adecuados.
+    B --> B3[Recolección irregular en algunas zonas]
 
-* Vertederos clandestinos y mala disposición final.
+    B --> B4[Gases contaminantes]
 
-* Este tipo de cosas puede ocasionar malos olores, lo que asi mismo puede afectar a la salud de los residentes que vivan * cerca de este tipo de zonas, esto puede generar gripas y en general problemas respiratorios por la mala calidad del aire.
+    C --> C1[Malos olores]
+    C1 --> C1a[Problemas para residentes cercanos]
 
+    C --> C2[Enfermedades respiratorias]
+    C2 --> C2a[Gripales]
+    C2 --> C2b[Problemas por mala calidad del aire]
+
+    C --> C3[Proliferación de fauna nociva]
+
+    C --> C4[Contaminación del aire, agua y suelo]
+```
 **♻️ 1. Sensores inteligentes en contenedores de basura (IoT + Big Data)**
 
 * ¿Por qué es clave?
