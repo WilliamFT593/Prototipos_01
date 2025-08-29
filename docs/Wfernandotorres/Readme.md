@@ -4,7 +4,7 @@
   
 "En esta ciudad se ven muchas problemáticas gracias al tráfico en muchas de las vías principales como las autopistas y    avenidas, como la Autopista Norte, la Avenida Caracas, la Calle 80 y la Avenida Boyacá. Estas vías la mayor parte del día están congestionadas, y más si es en hora pico"
 
-# Problema central: Congestión en las rutas principales de Bogotá
+# Problema central: Reducción en la calidad de vida
 
 * Deficiente infraestructura vial
 * Transporte público insuficiente
