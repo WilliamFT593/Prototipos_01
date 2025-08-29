@@ -4,20 +4,32 @@
   
 "En esta ciudad se ven muchas problemáticas gracias al tráfico en muchas de las vías principales como las autopistas y    avenidas, como la Autopista Norte, la Avenida Caracas, la Calle 80 y la Avenida Boyacá. Estas vías la mayor parte del día están congestionadas, y más si es en hora pico"
 
-# Problema central: Reducción en la calidad de vida
+```mermaid
+graph TD
+    A[Reducción en la calidad de vida]
 
-* Deficiente infraestructura vial
-* Transporte público insuficiente
-* Falta de planificación urbana
-* Aumento en tiempos de desplazamiento
-* Contaminación del aire
-* Disminución de la productividad
-* Incremento del estrés en la población
-* Reducción en la calidad de vida
-* Contaminación del aire → afecta la salud respiratoria y cardiovascular de la población, aumentando casos de asma, bronquitis, alergias y problemas cardíacos.
-* Incremento del estrés en la población → genera ansiedad, fatiga y disminuye la salud mental y emocional de los ciudadanos.
-* Reducción en la calidad de vida.
+    A --> B[Causas]
+    A --> C[Consecuencias]
 
+    B --> B1[Deficiente infraestructura vial]
+    B --> B2[Transporte público insuficiente]
+    B --> B3[Falta de planificación urbana]
+
+    C --> C1[Aumento en tiempos de desplazamiento]
+    C1 --> C1a[Disminución de la productividad]
+
+    C --> C2[Contaminación del aire]
+    C2 --> C2a[Afecta la salud respiratoria y cardiovascular]
+    C2a --> C2a1[Casos de asma]
+    C2a --> C2a2[Bronquitis]
+    C2a --> C2a3[Alergias]
+    C2a --> C2a4[Problemas cardíacos]
+
+    C --> C3[Incremento del estrés en la población]
+    C3 --> C3a[Ansiedad]
+    C3 --> C3b[Fatiga]
+    C3 --> C3c[Disminución de la salud mental y emocional]
+```
 **Dame soluciones tecnológicas para solucionar cada una de estas problemáticas que se ven en el día a día en la ciudad de Bogotá**
 
 # 🚌 1. Plataforma integrada de movilidad (transporte público insuficiente)
