@@ -1,17 +1,37 @@
 # Harold Andres Pava Perez
 **Problema central: Manejo ineficiente de residuos y basuras en Bogotá**
+# Diagrama de Manejo Ineficiente de Residuos
 
-Causas visibles:
+```mermaid
+graph TD
+    A[Manejo ineficiente de residuos de basura]
 
-Acumulación de basura en calles y andenes.
+    A --> B[Causas]
+    A --> C[Consecuencias]
 
-Recolección irregular en algunas zonas.
+    B --> B1[Falta de educación ambiental]
+    B1 --> B1a[Desconocimiento de reciclaje]
+    B1 --> B1b[Indiferencia ciudadana]
 
-Bajo nivel de reciclaje por falta de cultura y puntos adecuados.
+    B --> B2[Infraestructura insuficiente]
+    B2 --> B2a[Pocos contenedores]
+    B2 --> B2b[Recolección irregular]
 
-Vertederos clandestinos y mala disposición final.
+    B --> B3[Falta de normativas estrictas]
+    B3 --> B3a[Escaso control de autoridades]
 
-Este tipo de cosas puede ocasionar malos olores, lo que asi mismo puede afectar a la salud de los residentes que vivan cerca de este tipo de zonas, esto puede generar gripas y en general problemas respiratorios por la mala calidad del aire.
+    B --> B4[Consumo excesivo de productos desechables]
+
+    C --> C1[Contaminación ambiental]
+    C1 --> C1a[Suelo]
+    C1 --> C1b[Agua]
+    C1 --> C1c[Aire]
+
+    C --> C2[Proliferación de enfermedades]
+    C --> C3[Degradación paisajística]
+    C --> C4[Saturación de rellenos sanitarios]
+    C --> C5[Aumento de fauna nociva (ratas, insectos)]
+```
 
 **♻️ 1. Sensores inteligentes en contenedores de basura (IoT + Big Data)**
 
