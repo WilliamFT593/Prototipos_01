@@ -7,6 +7,9 @@
 * Baches
 * Undimientos
 * Daño de vehiculos
+* Las calles en mal estado incrementan el riesgo de accidentes de tránsito, lo que puede provocar lesiones físicas graves (fracturas, traumas, discapacidad temporal o permanente).
+Además, los vibraciones y movimientos bruscos generados por baches pueden generar problemas de salud como dolores de espalda, cervicales y afectaciones musculares en conductores y pasajeros. Esto, sumado al estrés por el caos vial, impacta negativamente en la salud física y mental de la población.
+
 **Dame soluciones tecnológicas para solucionar cada una de estas problemáticas que se ven en el día a día en la ciudad de Bogotá**
 
 # 🧱 1. Detección automática de daños viales con IA y visión artificial (calles en mal estado)
