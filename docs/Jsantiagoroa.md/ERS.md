@@ -30,3 +30,21 @@ TODO: redactar despues
 | Categoria Profesional   | Ingeniero Sistemas                               |
 | Responsabilidad         | Diseñar, desarrollar, implementar bases de datos |
 | Informacion de contacto | jsantiagoroa@ucompensar.edu.co                   |
+
+### 1.4 Definiciones, acronimos y abreviaturas
+
+| Nombre  | Descripción                                          |
+|---------|------------------------------------------------------|
+| Usuario | Persona que usará el sistema para gestionar procesos |
+| ERS     | Especificación de Requisitos Software                |
+| RF      | Requerimiento Funcional                              |
+| RNF     | Requerimiento No Funcional                           |
+
+### 1.5 Referencias
+
+### 1.6 Resumen
+
+## 2 Descripcion general
+
+### 2.1 Perspectiva del producto
+
