@@ -1,14 +1,33 @@
 # Julian Santiago Roa Garzon  
-* Problema central: Calles en mal estado en Bogotá
-"Baches, grietas, hundimientos y falta de mantenimiento en muchas vías de Bogotá no solo empeoran la congestión vehicular, sino que también afectan la seguridad vial, dañan los vehículos, y contribuyen al caos urbano."
 
-# Problema central: Calles en mal estado en Bogotá
-* grietas
-* Baches
-* Undimientos
-* Daño de vehiculos
-* Las calles en mal estado incrementan el riesgo de accidentes de tránsito, lo que puede provocar lesiones físicas graves (fracturas, traumas, discapacidad temporal o permanente).
-Además, los vibraciones y movimientos bruscos generados por baches pueden generar problemas de salud como dolores de espalda, cervicales y afectaciones musculares en conductores y pasajeros. Esto, sumado al estrés por el caos vial, impacta negativamente en la salud física y mental de la población.
+
+```mermaid
+graph TD
+    A[Calles en mal estado en Bogotá]
+
+    A --> B[Causas visibles]
+    A --> C[Consecuencias]
+
+    B --> B1[Grietas]
+    B --> B2[Baches]
+    B --> B3[Hundimientos]
+
+    C --> C1[Daño de vehículos]
+
+    C --> C2[Incremento de accidentes de tránsito]
+    C2 --> C2a[Lesiones físicas graves]
+    C2a --> C2a1[Fracturas]
+    C2a --> C2a2[Traumas]
+    C2a --> C2a3[Discapacidad temporal o permanente]
+
+    C --> C3[Problemas de salud]
+    C3 --> C3a[Dolores de espalda]
+    C3 --> C3b[Dolores cervicales]
+    C3 --> C3c[Afectaciones musculares en conductores y pasajeros]
+
+    C --> C4[Estrés y caos vial]
+    C4 --> C4a[Impacto negativo en la salud física y mental]
+```
 
 **Dame soluciones tecnológicas para solucionar cada una de estas problemáticas que se ven en el día a día en la ciudad de Bogotá**
 
